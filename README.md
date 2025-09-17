@@ -10,15 +10,17 @@ Desde mi primer contacto con **Programación**, supe que quería dedicarme a est
 
 ## 🚀 ¿Qué estoy haciendo?
 
-Actualmente estoy finalizando mis estudios en **Soy Henry** 🟡 y dedicando tiempo a perfeccionar los proyectos que desarrollé durante el bootcamp.
+Me gradué recientemente como Desarrolladora Full Stack en Soy Henry 🟡 y actualmente me desempeño como Teacher Assistant, brindando soporte técnico y pedagógico a nuevos/as desarrolladores/as.
 
-Me apasiona resolver problemas reales con código, aprender nuevas tecnologías y colaborar en proyectos que generen un impacto positivo.
+Además, trabajo como desarrolladora freelance, mientras me postulo activamente a oportunidades laborales en empresas del sector tecnológico.
+
+Me apasiona resolver problemas reales con código, aprender nuevas tecnologías y colaborar en proyectos que generen un impacto positivo en las personas y en la sociedad.
 
 ---
 
 ## 🎯 ¿Hacia dónde me dirijo?
 
-Mi objetivo es claro: **impactar el mundo con soluciones creativas y funcionales usando tecnología**.
+Mi objetivo es **impactar el mundo con soluciones creativas y funcionales usando tecnología**.
 
 La programación no solo me motiva por su potencial laboral, sino por su poder para transformar ideas en realidades.  
 Me entusiasma especialmente el aprendizaje continuo, el avance de la inteligencia artificial y la posibilidad de trabajar en proyectos con propósito.
