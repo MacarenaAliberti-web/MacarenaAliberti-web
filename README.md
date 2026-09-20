@@ -1,130 +1,70 @@
-# ¡Hola! Soy Macarena Aliberti 👋
+# Macarena Aliberti · Desarrolladora Full Stack Junior
 
-## 👩‍💻 ¿Quién soy?
+**Next.js · React · TypeScript · NestJS · PostgreSQL**
 
-Soy desarrolladora **Full Stack** con un fuerte enfoque en el diseño **Front-end** y la creación de material visual.  
-Mi historia en el mundo del código comenzó a los 30 años, mientras trabajaba en docencia y participé en capacitaciones tecnológicas.  
-Desde mi primer contacto con **Programación**, supe que quería dedicarme a esto: ¡programar cambió mi forma de ver el mundo!
+Construyo aplicaciones web de punta a punta: hoy tengo un SaaS de reservas en uso real y un e-commerce en producción. Vengo de más de 10 años como profesora de Educación Física y de acompañar a una cohorte completa de estudiantes como Teacher Assistant en Henry, lo que me da una base sólida para comunicar y trabajar en equipo. Busco mi primer rol como desarrolladora en un equipo remoto.
 
----
-
-## 🚀 ¿Qué estoy haciendo?
-
-Me gradué recientemente como Desarrolladora Full Stack en Soy Henry 🟡 y actualmente me desempeño como Teacher Assistant, brindando soporte técnico y pedagógico a nuevos/as desarrolladores/as.
-
-Además, trabajo como desarrolladora freelance, mientras me postulo activamente a oportunidades laborales en empresas del sector tecnológico.
-
-Me apasiona resolver problemas reales con código, aprender nuevas tecnologías y colaborar en proyectos que generen un impacto positivo en las personas y en la sociedad.
+📍 Buenos Aires, Argentina (GMT-3) · 🌐 Disponible para trabajo remoto
 
 ---
 
-## 🎯 ¿Hacia dónde me dirijo?
+## 🚀 Proyectos destacados
 
-Mi objetivo es **impactar el mundo con soluciones creativas y funcionales usando tecnología**.
+### MaletFit: turnos, reservas y rutinas (en uso real)
+Plataforma de gestión de turnos, reservas y rutinas de entrenamiento, que uso hoy con unos 15 alumnos en mis clases online.
+- Resolví condiciones de carrera en las reservas con transacciones PostgreSQL de aislamiento Serializable y reintentos automáticos, con lista de espera automática.
+- Autenticación con JWT en cookies httpOnly y control de acceso por roles (alumno, instructor y admin).
+- Notificaciones por email asíncronas con Brevo y tests unitarios con Jest.
+- **Stack:** Next.js 16, TypeScript, Tailwind CSS, Shadcn UI, NestJS, Prisma, PostgreSQL (Supabase)
+- 🔗 [Demo](https://maletfit-frontend.vercel.app) · [Frontend](https://github.com/MacarenaAliberti-web/maletfit-frontend) · [Backend](https://github.com/MacarenaAliberti-web/maletfit-backend)
 
-La programación no solo me motiva por su potencial laboral, sino por su poder para transformar ideas en realidades.  
-Me entusiasma especialmente el aprendizaje continuo, el avance de la inteligencia artificial y la posibilidad de trabajar en proyectos con propósito.
+### ZHYRA: e-commerce full stack (en producción, proyecto en equipo)
+E-commerce desarrollado junto a otra desarrolladora junior, hoy en producción.
+- Mi parte: gran parte del frontend (home, tarjetas de producto, carrito y checkout), login con Google, integración con Mercado Pago y panel de administración (promociones, cupones, envíos y modo "tienda en construcción").
+- **Stack:** Next.js, React, Tailwind CSS, NestJS, TypeScript, PostgreSQL (Supabase), Prisma
+- 🔗 [zhyra.online](https://zhyra.online)
+
+### Hearts & Paws: frontend y diseño (proyecto final del bootcamp)
+Plataforma web para organizaciones de rescate animal y adopciones. Equipo de 6 personas (3 frontend y 3 backend).
+- Mi parte: el diseño de la interfaz en Figma y gran parte del frontend, con interfaces responsivas.
+- **Stack:** React, Next.js, Tailwind CSS
+- 🔗 [Diseño en Figma](https://www.figma.com/design/0xb7qDtuRhzQuJZtV6cKuM/Home?node-id=7-106) · [Código del frontend](https://github.com/MacarenaAliberti-web/frontend-hearts-paws-)
+
+### Gestor de Películas: full stack individual
+Aplicación para consultar, agregar y eliminar películas, con API REST propia.
+- **Stack:** JavaScript, Bootstrap, Webpack, Node.js, Express, MongoDB (Mongoose)
+- 🔗 [Código](https://github.com/MacarenaAliberti-web/gestor-de-peliculas)
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Tecnologías
 
-![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-
-
-Durante mi formación en el bootcamp y de forma autodidacta, he trabajado con:
-
-**Front-end**  
-- HTML / CSS  
-- JavaScript  
-- React  
-- Next.js  
-- TypeScript  
-- Tailwind CSS  
-
-**Back-end**  
-- Node.js  
-- Express  
-- PostgreSQL  
-- MongoDB  
-
-**Diseño y prototipado**  
-- Figma 🎨  
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
-## 🐾 Proyectos Destacados
+## 👩‍🏫 Experiencia técnica previa
 
-### Hearts & Paws (Proyecto Final Grupal)  
-_Plataforma web para apoyar a organizaciones que rescatan y cuidan animales en situación de calle._
-
-🧩 Funcionalidades principales:  
-- Registro y gestión de animales por estado: en rehabilitación, en adopción.  
-- Creación y administración de campañas de donación con trazabilidad y comprobantes.  
-- Comunicación directa entre organizaciones, adoptantes y donantes.  
-- Visualización de perfiles para promover transparencia y confianza.  
-- Sistema de calificación para asegurar calidad y credibilidad.  
-
-💡 Valor diferencial:  
-Plataforma integral que digitaliza procesos clave en la protección animal, elevando estándares tecnológicos y facilitando la interacción con la comunidad.
-
-🛠️ Tecnologías: Next.js · React · Tailwind CSS · Node.js · Express · PostgreSQL · MongoDB  
-
-🤝 Trabajo en equipo: Compartimos responsabilidades de frontend, backend, diseño y gestión para lograr una solución profesional.
-
-**Aptitudes:**  
-🤝 Trabajo en equipo · 🗣️ Comunicación efectiva · 🧩 Resolución de problemas · 💻 Desarrollo Full Stack · ⚛️ React.js  
+**Teacher Assistant en Henry Bootcamp (mayo a diciembre de 2025).** Acompañé de principio a fin a una cohorte de unos 20 estudiantes de la formación Full Stack, con soporte técnico, resolución de bloqueos y code reviews en GitHub.
 
 ---
 
-### E-Commerce (Frontend con Next.js + TailwindCSS)  
-_Aplicación de e-commerce con enfoque en experiencia de usuario fluida y moderna._
+## 📫 Contacto
 
-🧩 Funcionalidades principales:  
-- Listado dinámico de productos.  
-- Agregar y eliminar productos del carrito.  
-- Función de "favoritos" para guardar productos destacados.  
-- Simulación de compra exitosa con vaciado del carrito.  
-- Diseño responsive y minimalista con TailwindCSS.  
-
-💡 Objetivo: Practicar lógica de compras, manejo de estado y experiencia de usuario, sin integración real de pagos.
-
-**Aptitudes:**  
-🎯 Atención al detalle en UI/UX · 🔄 Adaptabilidad para aprender nuevas tecnologías · 🧠 Resolución creativa de problemas · 🗓️ Gestión del tiempo y organización · 📚 Aprendizaje continuo  
-
----
-
-### Gestor de Turnos – Clínica AMA (Proyecto Full Stack)  
-_Aplicación web para optimizar la gestión de turnos en una clínica médica, con notificaciones por email._
-
-🧩 Funcionalidades principales:  
-- Registro, inicio de sesión y edición de perfil con foto.  
-- Reserva de turnos online con confirmación inmediata.  
-- Envío automático de emails con Nodemailer (confirmación y cancelación).  
-- Diseño responsive con Bootstrap.  
-
-🛠️ Tecnologías: React · TypeScript · Vite · Node.js · Express · Nodemailer · [Agregar base de datos usada]  
-
-🎯 Enfoque en ofrecer una experiencia fluida, profesional y funcional para usuarios y administradores.
-
-**Aptitudes:**  
-🧠 Atención al detalle en UI/UX · 🔐 Manejo seguro de datos · 🔧 Integración frontend-backend · 🧩 Resolución de problemas fullstack · 📚 Aprendizaje en herramientas modernas · 🎯 Proactividad  
-
----
-
-## 🤝 ¡Conectemos!
-
-Estoy abierta a nuevas oportunidades, colaboración en proyectos o simplemente una buena charla sobre desarrollo y diseño.
-
-📩 **Correo:** alibertimacarena@gmail.com  
-🔗 **LinkedIn:** [macarena-aliberti](https://www.linkedin.com/in/macarena-aliberti-440b03373/)
-
-> “Juntos podemos crear proyectos que transformen vidas.” 💡
-
-
-
+- 📩 alibertimacarena@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/macarena-aliberti-440b03373/)
+- 🌐 [Portfolio](https://macarenadev-portfolio.vercel.app/)
