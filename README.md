@@ -11,7 +11,7 @@ Construyo aplicaciones web de punta a punta: hoy tengo un SaaS de reservas en us
 ## 🚀 Proyectos destacados
 
 ### MaletFit: turnos, reservas y rutinas (en uso real)
-Plataforma de gestión de turnos, reservas y rutinas de entrenamiento, que uso actualmente con unos alumnos en mis clases de funcional.
+Plataforma de gestión de turnos, reservas y rutinas de entrenamiento, que uso actualmente con alumnos en mis clases de funcional.
 - Resolví condiciones de carrera en las reservas con transacciones PostgreSQL de aislamiento Serializable y reintentos automáticos, con lista de espera automática.
 - Autenticación con JWT en cookies httpOnly y control de acceso por roles (alumno, instructor y admin).
 - Notificaciones por email asíncronas con Brevo y tests unitarios con Jest.
